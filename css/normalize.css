@@ -552,7 +552,7 @@ Preloader Area CSS
 	padding:0;
 }
 .breadcrumbs ul li a:hover{
-	color:#2C2D3F;
+	color:#ff6b00;
 }
 .breadcrumbs ul li.active a {
 	color: #fff;
@@ -645,7 +645,7 @@ dd {
 }
 
 img {
-	height: auto;
+	height: 100%;
 	/* Make sure images are scaled correctly. */
 	max-width: 100%;
 	/* Adhere to container width. */
