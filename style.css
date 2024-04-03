@@ -520,7 +520,6 @@ body{
 }
 .signin a{
 color: #1A76D1;
-text-decoration: underline;
 text-transform: capitalize;
 }
 .signin a:hover{
@@ -671,7 +670,7 @@ text-transform: capitalize;
 	border-radius: 50%;
 }
 .slider .owl-carousel .owl-nav div:hover{
-	background:#2C2D3F;
+	background:#ff6b00;
 	color:#fff;
 }
 .slider .owl-carousel .owl-controls .owl-nav .owl-prev{
@@ -1019,7 +1018,7 @@ text-transform: capitalize;
 .why-choose .choose-right{
 	height:100%;
 	width:100%;
-	background-image:url('img/download.png');
+	background-image:url('img/download.jpg');
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
